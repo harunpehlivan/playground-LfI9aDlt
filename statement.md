@@ -1,4 +1,4 @@
-# Simple Encryption using C# using XOR technique!
+# Simple Encryption using C# and XOR technique!
 
 ## Introduction
 
